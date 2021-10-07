@@ -28,3 +28,7 @@ nav ul li a, nav ul li a:hover, nav ul li a:visited
 	width:500px;
 	background-color: rgba(200,200,200,.5);
 }
+
+.emma {
+	position: absolute;
+}
