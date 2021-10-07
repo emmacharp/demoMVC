@@ -36,3 +36,7 @@ nav ul li a, nav ul li a:hover, nav ul li a:visited
 .paul-antoine {
 	position: relative;
 }
+
+.amaury {
+	position: sticky;
+}
